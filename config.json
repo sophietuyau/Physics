@@ -21,13 +21,13 @@
 		"density": "xhdpi"
 	}],
 	"plugins": [
-		{ "id": "cordova-custom-config", "version": null },
-		{ "id": "cordova-plugin-ad-admob", "version": null },
-		{ "id": "cordova-plugin-file", "version": null },
-		{ "id": "cordova-plugin-inappbrowser", "version": null },
-		{ "id": "cordova-plugin-statusbar", "version": null },
-		{ "id": "cordova-plugin-whitelist", "version": null },
-		{ "id": "cordova-plugin-wkwebview-engine", "version": null }
+		{ "id": "cordova-custom-config", "version": "5.1.0" },
+		{ "id": "cordova-plugin-ad-admob", "version": "1.0.118" },
+		{ "id": "cordova-plugin-file", "version": "6.0.2"},
+		{ "id": "cordova-plugin-inappbrowser", "version": "3.1.0"},
+		{ "id": "cordova-plugin-statusbar", "version": "2.4.3" },
+		{ "id": "cordova-plugin-whitelist", "version": "1.3.4" },
+		{ "id": "cordova-plugin-wkwebview-engine", "version": "1.2.1" }
 	],
 	"android": {
 		"min": 21,
