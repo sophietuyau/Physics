@@ -13,7 +13,6 @@
 	<preference name="fullscreen" value="true" />
 	<preference name="DisallowOverscroll" value="true" />
 	<preference name="AllowInlineMediaPlayback" value="true" />
-	<preference name="phonegap-version" value="cli-8.0.0"/>
 
 	<config-file parent="UIStatusBarHidden" platform="ios" target="*-Info.plist"><true/></config-file>
 	<config-file parent="UIViewControllerBasedStatusBarAppearance" platform="ios" target="*-Info.plist"><false/></config-file>
