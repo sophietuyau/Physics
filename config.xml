@@ -13,6 +13,7 @@
 	<preference name="fullscreen" value="true" />
 	<preference name="DisallowOverscroll" value="true" />
 	<preference name="AllowInlineMediaPlayback" value="true" />
+	<preference name="phonegap-version" value="cli-8.0.0"/>
 
 	<config-file parent="UIStatusBarHidden" platform="ios" target="*-Info.plist"><true/></config-file>
 	<config-file parent="UIViewControllerBasedStatusBarAppearance" platform="ios" target="*-Info.plist"><false/></config-file>
@@ -28,6 +29,7 @@
 	<plugin name="cordova-plugin-statusbar" />
 	<plugin name="cordova-plugin-whitelist" />
 	<plugin name="cordova-plugin-wkwebview-engine" />
+	<plugin name="cordova-plugin-admob-free"><variable name="ADMOB_APP_ID" value="ca-app-pub-9509943974859486/7180538134"/><plugin/>
 
 
 	<engine name="ios" />
